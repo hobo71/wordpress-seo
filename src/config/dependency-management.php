@@ -71,7 +71,7 @@ class Dependency_Management {
 	 *
 	 * @codeCoverageIgnore
 	 *
-	 * @param Event $event Composer event that triggered this script.
+	 * @param \Composer\Script\Event $event Composer event that triggered this script.
 	 *
 	 * @return void
 	 */
